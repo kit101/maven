@@ -1,4 +1,17 @@
 # maven
+## 如何使用该maven库
+```xml
+<project>
+    ...
+    <repositories>
+        <repository>
+            <id>kit101-maven</id>
+            <url>https://gitee.com/kit101/maven/raw/master/repository</url>
+        </repository>
+    </repositories>
+</project>
+```
+
 
 #### 介绍
 私有maven库
