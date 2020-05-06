@@ -3,11 +3,12 @@
   <groupId>com.kit101.web</groupId>
   <artifactId>web-facade</artifactId>
   <versioning>
-    <release>0.1.4.SHOTSPOT</release>
+    <release>0.1.6.RELEASE</release>
     <versions>
       <version>0.1.2.SHOTSPOT</version>
       <version>0.1.4.SHOTSPOT</version>
+      <version>0.1.6.RELEASE</version>
     </versions>
-    <lastUpdated>20200426125930</lastUpdated>
+    <lastUpdated>20200506084222</lastUpdated>
   </versioning>
 </metadata>
